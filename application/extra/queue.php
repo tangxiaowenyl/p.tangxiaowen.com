@@ -25,8 +25,8 @@ return [
      * 小程序配置
      */
     'wx_app' => [
-        'app_id'     => 'wxeeaa4db43357caa1',
-        'app_secret' => '90d3fe69cd9c4f1fa3b640473156372d',
+        'app_id'     => '',
+        'app_secret' => '',
     ],
 
     /**
